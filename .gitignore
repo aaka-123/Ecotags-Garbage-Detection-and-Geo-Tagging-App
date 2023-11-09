@@ -1,0 +1,15 @@
+# Ignore node_modules folders
+server/node_modules/
+/node_modules/
+
+# Ignore build output
+/build/
+/output/
+
+# Ignore Dart build artifacts
+/.dart_tool/
+pubspec.lock
+
+# Ignore testing coverage files
+coverage/
+ui-debug.log
